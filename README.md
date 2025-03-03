@@ -1,2 +1,0 @@
-# Flashlight-App
-Privacy policy
